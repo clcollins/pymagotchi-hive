@@ -1,11 +1,10 @@
 pymagotchi-hive
 ===============
 
-Because of this:
+Because of this: [http://xkcd.com/1546/](http://xkcd.com/1546/)
 
 ![Tomagotchi Hive from XKCD](http://imgs.xkcd.com/comics/tamagotchi_hive.png "http://xkcd.com/1546/")
 
-[http://xkcd.com/1546/](http://xkcd.com/1546/)
 
 I now have to figure out how to implement a Massive Distributed Simulation of Trillions and Trillions of Tomagotchis, in Python no less.  _Thanks,_ Randall.  Thanks.
 
